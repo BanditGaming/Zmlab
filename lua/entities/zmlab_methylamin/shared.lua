@@ -1,0 +1,10 @@
+ENT.Type = "anim"
+ENT.Base = "base_entity"
+ENT.RenderGroup = RENDERGROUP_BOTH
+ENT.Spawnable = true
+ENT.AdminSpawnable = false
+ENT.PrintName = "Methylamin"
+ENT.Author = "ClemensProduction aka Zerochain"
+ENT.Information = "info"
+ENT.Category = "Zeros Meth Lab"
+ENT.Model = "models/zerochain/zmlab/zmlab_methylamin.mdl"

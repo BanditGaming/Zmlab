@@ -1,0 +1,9 @@
+ENT.Type = "anim"
+ENT.Base = "base_entity"
+ENT.Spawnable = true
+ENT.RenderGroup = RENDERGROUP_TRANSLUCENT
+ENT.PrintName = "Aluminium"
+ENT.Author = "ClemensProduction aka Zerochain"
+ENT.Information = "info"
+ENT.Category = "Zeros Meth Lab"
+ENT.Model = "models/zerochain/zmlab/zmlab_aluminiumbox.mdl"

@@ -1,0 +1,10 @@
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.AutomaticFrameAdvance = true
+ENT.RenderGroup = RENDERGROUP_TRANSLUCENT
+ENT.Spawnable = false
+ENT.AdminSpawnable = false
+ENT.PrintName = "Sludge"
+ENT.Author = "ClemensProduction aka Zerochain"
+ENT.Information = "info"
+ENT.Category = "Zeros Meth Lab"
